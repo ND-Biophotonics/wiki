@@ -1,2 +1,3 @@
 # wiki
-Please edit this!
+Please edit this wiki!
+(click the "Wiki" link ^)
